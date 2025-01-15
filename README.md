@@ -1,6 +1,5 @@
 ## Hi, I'm Agus
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
 ```python
 class NoisyDev:
