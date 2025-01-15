@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Agus
 
-<!--
-**AgusMuzi79/agusmuzi79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
-Here are some ideas to get you started:
+```python
+class NoisyDev:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.username = 'NoisyDev'
+        self.name = 'Agustin Muzi'
+        self.web = ''
+        self.twitter = '@'
+        self.code = {
+            'frontend': [],
+            'backend': ['Python', 'Flask', 'Django'],
+            'database': [],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
+            'misc': ['SCRUM', 'SOLID']
+        }
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = NoisyDev()
+
+
+```
+## Get in touch
+
+- Twitter: https://twitter.com/
+- Personal Site: 
+
+## Latest Posts (Spanish)
