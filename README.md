@@ -7,17 +7,19 @@ class NoisyDev:
     def __init__(self):
         self.username = 'NoisyDev'
         self.name = 'Agustin Muzi'
-        self.web = ''
-        self.twitter = '@'
+        self.web = 'agusmuzi.dev'
         self.code = {
-            'frontend': [],
-            'backend': ['Python', 'Flask', 'Django'],
-            'database': [],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook'],
-            'misc': ['SCRUM', 'SOLID']
+            'backend': ['Python', 'FastAPI', 'Django', 'Flask'],
+            'ai_ml': ['Claude API', 'LLMs', 'AI Agents', 'Prompt Engineering'],
+            'database': ['PostgreSQL', 'Redis'],
+            'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Jenkins'],
+            'tools': ['Git', 'Claude Code', 'OpenSpec', 'Pandas', 'Jupyter'],
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        self.architecture = ['REST APIs', 'MVC', 'Microservices', 'Agent Orchestration']
+        self.currently_building = [
+            'Club management app (FastAPI + Flutter + QR auth)',
+            'AI-powered skills & automation workflows',
+        ]
 
     def __str__(self):
         return self.name
