@@ -32,7 +32,5 @@ if __name__ == '__main__':
 ```
 ## Get in touch
 
-- Twitter: https://twitter.com/
-- Personal Site: 
-
-## Latest Posts (Spanish)
+- Linkedin: linkedin.com/in/agusmuzi79
+- Personal Site: agusmuzi.dev
